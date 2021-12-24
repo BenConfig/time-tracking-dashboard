@@ -293,11 +293,17 @@ main {
 
     &:hover::before { opacity: 1; }
 
-    &:focus { outline: 2px solid $clr-white; }
+    &:focus {
+        outline: 2px solid $clr-white;
+        outline-offset: -2px;
+    }
       
     &:focus:not(:focus-visible) { outline: none; }
     
-    &:focus-visible { outline: 2px solid $clr-white; }
+    &:focus-visible {
+        outline: 2px solid $clr-white;
+        outline-offset: -2px;
+    }
 
     &__h2 {
         flex: 100%;
