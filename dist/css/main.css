@@ -185,32 +185,32 @@ main {
 }
 .report__grid-item--work::before {
   color: #ff8c66;
-  background-image: url("/../images/icon-work.svg");
+  background-image: url("../../images/icon-work.svg");
   background-position: top -0.75rem right 1.0625rem;
 }
 .report__grid-item--play::before {
   color: #56c2e6;
-  background-image: url("/../images/icon-play.svg");
+  background-image: url("../../images/icon-play.svg");
   background-position: top -0.3125rem right 1.25rem;
 }
 .report__grid-item--study::before {
   color: #ff5c7c;
-  background-image: url("/../images/icon-study.svg");
+  background-image: url("../../images/icon-study.svg");
   background-position: top -0.375rem right 1.125rem;
 }
 .report__grid-item--exercise::before {
   color: #4acf81;
-  background-image: url("/../images/icon-exercise.svg");
+  background-image: url("../../images/icon-exercise.svg");
   background-position: top -0.0625rem right 1.0625rem;
 }
 .report__grid-item--social::before {
   color: #7536d3;
-  background-image: url("/../images/icon-social.svg");
+  background-image: url("../../images/icon-social.svg");
   background-position: top -0.9375rem right 0.8125rem;
 }
 .report__grid-item--self-care::before {
   color: #f1c65b;
-  background-image: url("/../images/icon-self-care.svg");
+  background-image: url("../../images/icon-self-care.svg");
   background-position: top -0.625rem right 0.9375rem;
 }
 

@@ -211,37 +211,37 @@ main {
 
     &--work::before {
         color: $clr-work;
-        background-image: url('/../images/icon-work.svg');
+        background-image: url('../../images/icon-work.svg');
         background-position: top -.75rem right 1.0625rem;
     }
 
     &--play::before {
         color: $clr-play;
-        background-image: url('/../images/icon-play.svg');
+        background-image: url('../../images/icon-play.svg');
         background-position: top -.3125rem right 1.25rem;
     }
 
     &--study::before {
         color: $clr-study;
-        background-image: url('/../images/icon-study.svg');
+        background-image: url('../../images/icon-study.svg');
         background-position: top -.375rem right 1.125rem;
     }
 
     &--exercise::before {
         color: $clr-exercise;
-        background-image: url('/../images/icon-exercise.svg');
+        background-image: url('../../images/icon-exercise.svg');
         background-position: top -.0625rem right 1.0625rem;
     }
 
     &--social::before {
         color: $clr-social;
-        background-image: url('/../images/icon-social.svg');
+        background-image: url('../../images/icon-social.svg');
         background-position: top -.9375rem right .8125rem;
     }
 
     &--self-care::before {
         color: $clr-self-care;
-        background-image: url('/../images/icon-self-care.svg');
+        background-image: url('../../images/icon-self-care.svg');
         background-position: top -.625rem right .9375rem;
     }
 }
